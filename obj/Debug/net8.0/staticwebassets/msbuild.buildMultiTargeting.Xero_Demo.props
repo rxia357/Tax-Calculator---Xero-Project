@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="../build/Xero_Demo.props" />
+</Project>
